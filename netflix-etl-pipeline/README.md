@@ -1,4 +1,4 @@
-# 🧩 Netflix ETL Pipeline
+#  Netflix ETL Pipeline
   
 Créer un mini pipeline **ETL** pour nettoyer et structurer le dataset public *Netflix Titles* (Kaggle).  
 Ce projet démontre un flux de traitement de données clair et modulaire, inspiré des pratiques de Data Engineering réelles.
